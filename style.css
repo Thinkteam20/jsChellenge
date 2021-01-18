@@ -1,7 +1,5 @@
-.form {
-  display: none;
-}
-.greetings {
+.form,
+.greeting {
   display: none;
 }
 .showing {
